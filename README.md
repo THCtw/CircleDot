@@ -1,2 +1,2 @@
-# CircleDotBlog
+# CircleDot
 Blog
